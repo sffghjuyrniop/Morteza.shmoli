@@ -1,0 +1,38 @@
+body {
+	background-image: url("IMG_20230507_092401_869.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.wph{
+		margin-top: -80px;
+	    margin-left: 270px;
+}
+.icon {
+	widows: 200px;
+	height:169px;
+	display: block;
+}
+.insph {
+	margin-top: 29px;
+	margin-left: 300px;
+}
+.tlph {
+	margin-left: 325px;
+	margin-top: 32px;
+}
+.phph {
+	margin-left: 367px;
+	margin-top: 26px;
+}
+.emph {
+	margin-left: 430px;
+	margin-top: 18px;
+}
+p {
+	direction: rtl;
+	color: white;
+	margin-top: 821px;
+	font-size: 63px;
+	font-weight: bold;
+	margin-right: 62px;
+}
